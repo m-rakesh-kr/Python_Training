@@ -1,5 +1,3 @@
-Creating a README.md file for your Python projects is a great idea! Below are the README.md templates for each of your core Python projects:
-
 ### Interview Management System
 
 **Project Overview:** The Interview Management System is a Python-based console application that simplifies the process of scheduling and managing job interviews.
